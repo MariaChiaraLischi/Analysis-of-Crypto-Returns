@@ -1,5 +1,7 @@
 # Analysis-of-Crypto-Returns
 
+This project was completed as part of the coursework for the course Blockchain and Fintech during the Master's degree program in Finance at Luiss Guido Carli University.
+
 The aim of this analysis is to determine the classification of cryptocurrencies with respect to the traditional asset classes of currencies, commodities, and equities. To achieve this, we examine data from Bloomberg containing weekly returns from 2023 to 2024 for the following asset classes:
 - Cryptocurrencies: Bitcoin (XBTUSD Curncy), Ethereum (ETHEREUM Index), Ripple (XRP Curncy), and Cardano (XAD Curncy).
 - Traditional currencies: Euro (EURUSD Curncy), and an index of major currencies (FXCTG10 Index)
